@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "abediOccasions",
-    "url": "https://abedical.in/datastore/abedioccasions.json",
+    "url": "https://raw.githubusercontent.com/endertrailer/webinfra.json/refs/heads/main/abedioccasions.json",
     "version": "2"
   },
   {
