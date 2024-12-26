@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "abediOccasions",
+    "url": "https://abedical.in/datastore/abedioccasions.json",
+    "version": "1"
+  },
+  {
+    "id": 2,
+    "name": "upcomingEvents",
+    "url": "https://abedical.in/datastore/upcomingevents.json",
+    "version": "1"
+  },
+  {
+    "id": 3,
+    "name": "majlisTimings",
+    "url": "https://abedical.in/datastore/majlistimings.json",
+    "version": "1"
+  },
+  {
+    "id": 4,
+    "name": "neetiGyan",
+    "url": "https://abedical.in/datastore/neetigyan.json",
+    "version": "1"
+  }
+]
