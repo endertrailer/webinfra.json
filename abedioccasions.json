@@ -260,7 +260,7 @@
     "abediendday": 25,
     "abediendmonth": 4,
     "abediendyear": 50001,
-    "description": "Urs Shk. Va. Shehrebanu Aa. Sa.",
+    "description": "Urs Shk. Va. Shehrebanu Aa. Sa. test",
     "type": "bu"
   },
   {
@@ -590,7 +590,7 @@
     "abediendday": 25,
     "abediendmonth": 10,
     "abediendyear": 50001,
-    "description": "Sha. Nooruddin Bh. Sa. nu war",
+    "description": "Sha. Nooruddin Bh. Sa. nu waras [testing]",
     "type": "ru"
   },
   {
@@ -748,4 +748,3 @@
     "type": "bu"
   }
 ]
-
